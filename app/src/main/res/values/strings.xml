@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Anemone</string>
+    <string name="ex_msg_dialog_view_not_set">Dialog View Not Set</string>
+</resources>
